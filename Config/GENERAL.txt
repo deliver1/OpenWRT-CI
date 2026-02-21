@@ -3,6 +3,7 @@ CONFIG_PACKAGE_luci-app-homeproxy=y
 CONFIG_PACKAGE_luci-app-autoreboot=y
 CONFIG_PACKAGE_luci-app-upnp=y
 CONFIG_PACKAGE_luci-app-wolplus=y
+CONFIG_PACKAGE_luci-app-nikki=y
 
 # IPv6 支持全家桶
 CONFIG_PACKAGE_ipv6helper=y
